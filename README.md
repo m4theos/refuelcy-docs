@@ -4,7 +4,7 @@ RefuelCy is a Cyprus-based mobile application designed to help users find the be
 
 ## 📱 Download
 
-- App Store (Coming Soon)
+- App Store: https://apps.apple.com/cy/app/refuelcy/id6740543568
 - Google Play Store (Coming Soon)
 
 ## ✨ Features
